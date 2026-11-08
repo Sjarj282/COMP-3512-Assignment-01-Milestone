@@ -62,5 +62,3 @@ for (let p of productsArray){
 
    console.log(p);
 }
-
-// append to the document
