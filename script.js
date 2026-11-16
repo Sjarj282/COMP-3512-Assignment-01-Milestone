@@ -5,7 +5,7 @@
 
 
 // Extract the JSON file contents
-import config from '.data/data-minifed.json' with { type: 'json'};
+import config from './data/data-minifed.json' with { type: 'json'};
 
 
 /** Holds product objects created from the JSON data. */
